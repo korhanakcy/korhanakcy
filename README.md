@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning every detail of statistics.
-- 📫 You can reach me from [site_name](https://www.linkedin.com/in/korhanakcay/)
+- 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/korhanakcay/) and [Mail](mailto:ekorhanakcay@gmail.com).
+
 <!--
 **korhanakcy/korhanakcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
