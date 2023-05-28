@@ -1,12 +1,11 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning every detail of statistics.
-- 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/korhanakcay/) and [Mail](mailto:ekorhanakcay@gmail.com).
+### 
 
 <h1 align="center">Hi 👋, I'm Korhan</h1>
 <h3 align="center">A passionate Jr. Data Scientist and Master Degree Statistician</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asdacasdasfasfacs&label=Profile%20views&color=0e75b6&style=flat" alt="asdacasdasfasfacs" /> </p>
+- 🌱 I’m currently learning every detail of statistics.
+- 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/korhanakcay/) and [Mail](mailto:ekorhanakcay@gmail.com).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=korhanakcy&label=Profile%20views&color=0e75b6&style=flat" alt="korhanakcy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +16,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korhanakcy&show_icons=true&locale=en&layout=compact" alt="korhanakcy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asdacasdasfasfacs&show_icons=true&locale=en" alt="korhanakcy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korhanakcy&show_icons=true&locale=en" alt="korhanakcy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asdacasdasfasfacs&" alt="korhanakcy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korhanakcy&" alt="korhanakcy" /></p>
 
 
 <!--
