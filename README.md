@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Korhan</h1>
-<h3 align="center">A passionate Jr. Data Scientist and Master Degree Statistician</h3>
+<h3 align="center">A passionate Data Scientist and Master Degree Statistician</h3>
 
 - 🌱 I’m currently learning every detail of statistics.
 - 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/korhanakcay/) and [Mail](mailto:ekorhanakcay@gmail.com).
